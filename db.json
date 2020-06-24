@@ -1,69 +1,63 @@
 {
+  "streams": [
+    {
+      "title": "edit1",
+      "description": "edit1",
+      "date": "20.06.2020",
+      "time": "15:30",
+      "id": 12
+    },
+    {
+      "title": "deneme",
+      "description": "deneme",
+      "userId": "116694200143447603944",
+      "id": 13
+    },
+    {
+      "title": "hop",
+      "description": "hop",
+      "userId": "116694200143447603944",
+      "id": 14
+    },
+    {
+      "title": "denemede",
+      "description": "deneme",
+      "undefined": "2020-06-25",
+      "userId": "100660380845698088342",
+      "id": 15
+    },
+    {
+      "username": "irfan",
+      "email": "irfan@irfan.com",
+      "age": "124",
+      "userId": "100660380845698088342",
+      "id": 16
+    },
+    {
+      "username": "new user",
+      "email": "new@gagas.com",
+      "age": "54",
+      "date": "2020-06-24",
+      "userId": "100660380845698088342",
+      "id": 17
+    },
+    {
+      "title": "asd",
+      "description": "ad",
+      "date": "2020-06-24",
+      "minute": "23",
+      "period": "PM",
+      "hour": "12",
+      "userId": "100660380845698088342",
+      "id": 18
+    }
+  ],
   "lessons": [
     {
-      "date": "2020-06-30",
-      "title": "deneme dersi",
-      "description": "bu bir deneme dersidir",
-      "time": "10:40",
-      "createdBy": {
-        "userId": "100660380845698088342",
-        "userName": "denem site",
-        "userEmail": "site.denem72@gmail.com",
-        "imageUrl": "https://lh3.googleusercontent.com/a-/AOh14GjG_Rgfix4Z8eO_Ty30bEXPnsuC0M5pmeinBNBR=s96-c"
-      },
-      "id": 56
-    },
-    {
-      "title": "new lesson news",
-      "description": "deneme",
-      "date": "2020-06-24",
-      "time": "15:30",
-      "createdBy": {
-        "userId": "109690261177114160159",
-        "userName": "site buysal",
-        "userEmail": "sitebuysal@gmail.com",
-        "imageUrl": "https://lh6.googleusercontent.com/-WVw_AZ4U79k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm3x4GqywySiOpWno8BH2wCD6W82w/s96-c/photo.jpg"
-      },
-      "id": 57
-    },
-    {
-      "title": "from firefox",
-      "description": "no descr",
-      "date": "2020-06-30",
-      "time": "10:10",
-      "createdBy": {
-        "userId": "111794941706102434869",
-        "userName": "irfan canan",
-        "userEmail": "denemesite72@gmail.com",
-        "imageUrl": "https://lh6.googleusercontent.com/-Nsqy1h2sXno/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmOubJ9Yt94PlSsJRWqPfcAOGj8zw/s96-c/photo.jpg"
-      },
-      "id": 58
-    },
-    {
-      "title": "new",
-      "description": "işlk",
-      "date": "2020-06-27",
-      "time": "12:30",
-      "createdBy": {
-        "userId": "116694200143447603944",
-        "userName": "Irfan O",
-        "userEmail": "irfankemal16@gmail.com",
-        "imageUrl": "https://lh3.googleusercontent.com/a-/AOh14GjEupbkwKsjD-vjgmqMKm2_X-hRJDP3jxmNVxC_=s96-c"
-      },
-      "id": 59
-    },
-    {
-      "description": "an overview to cpmputer science hardware and software side",
-      "title": "computer science",
-      "date": "2020-06-27",
-      "time": "10:40",
-      "createdBy": {
-        "userId": "100660380845698088342",
-        "userName": "denem site",
-        "userEmail": "site.denem72@gmail.com",
-        "imageUrl": "https://lh3.googleusercontent.com/a-/AOh14GjG_Rgfix4Z8eO_Ty30bEXPnsuC0M5pmeinBNBR=s96-c"
-      },
-      "id": 60
-    },
+      "title": "sda",
+      "description": "dsa",
+      "userId": "116694200143447603944",
+      "id": 1
+    }
   ]
 }
